@@ -1,0 +1,1 @@
+Insert "income_stat_all_us_list.csv" in visualization folder to run python script or notebook.
